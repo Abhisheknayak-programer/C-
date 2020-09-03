@@ -7,10 +7,10 @@ int main(){
     printf("Enter the No. of Years:\t");
     scanf("%d",&years);
 
-    printf("\nEnter the No. of Rate:\t");
+    printf("\nEnter the Rate of interest:\t");
     scanf("%d",&rate);
 
-    printf("\nEnter the No. of Price:\t");
+    printf("\nEnter the  Price:\t");
     scanf("%d",&price);
 
     Si = (price*years*rate)/100;
