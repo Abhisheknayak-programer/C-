@@ -14,11 +14,11 @@ int main(){
     }
     
     if(sum == temp){
-        printf("\nThe no. is a Armstrong Num");
+        printf("\nThe number is a Armstrong Num");
     }
     else
     {
-        printf("\nThe no. is not a armstrong num");
+        printf("\nThe number is not a armstrong num");
     }
     
 
